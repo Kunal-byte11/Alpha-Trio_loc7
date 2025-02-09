@@ -4,9 +4,9 @@ import UploadEvidence from './UploadEvidence';
 import SearchEvidence from './SearchEvidence';
 
 const MOCK_CASES = [
-  { firNumber: "FIR2024001", date: "2024-03-10", officer: "Officer Smith", status: "Open" },
-  { firNumber: "FIR2024002", date: "2024-03-09", officer: "Officer Johnson", status: "Closed" },
-  { firNumber: "FIR2024003", date: "2024-03-08", officer: "Officer Davis", status: "Pending" },
+  { firNumber: "FIR2024001", date: "2025-01-10", officer: "Officer Patil", status: "Open" },
+  { firNumber: "FIR2024002", date: "2024-12-09", officer: "Officer Yadav", status: "Closed" },
+  { firNumber: "FIR2024003", date: "2025-02-08", officer: "Officer Shettu", status: "Pending" },
 ];
 
 function Dashboard() {

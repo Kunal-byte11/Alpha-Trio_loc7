@@ -7,7 +7,7 @@ const MOCK_RESULTS = [
     firNumber: "FIR2024001",
     fileName: "crime_scene_photo.jpg",
     fileType: "image/jpeg",
-    uploadedBy: "Officer Smith",
+    uploadedBy: "Officer Gaikwad",
     uploadDate: "2024-03-10",
     ipfsHash: "QmX7b5rQZMwXs9FvUZGKgMnZQKn7K8qBtPh6v6vQZ9Z7Z7"
   },
@@ -16,7 +16,7 @@ const MOCK_RESULTS = [
     firNumber: "FIR2024001",
     fileName: "witness_statement.pdf",
     fileType: "application/pdf",
-    uploadedBy: "Officer Johnson",
+    uploadedBy: "Officer RAMESH",
     uploadDate: "2024-03-10",
     ipfsHash: "QmX7b5rQZMwXs9FvUZGKgMnZQKn7K8qBtPh6v6vQZ9Z7Z8"
   }
